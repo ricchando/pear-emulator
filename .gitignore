@@ -53,3 +53,5 @@ dkms.conf
 
 # Target Files
 pear
+
+.DS_Store

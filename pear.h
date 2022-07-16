@@ -23,7 +23,7 @@ typedef enum reg_id {
   REG_Y2 = 7
 } Reg_id;
 
-int Screen[4096];
+extern int Screen[4096];
 
 void err_pear(char *error_str, Regfile *r);
 

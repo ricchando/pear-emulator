@@ -6,6 +6,8 @@
 
 #include "pear.h"
 
+int Screen[4096];
+
 int
 read_screen(int addr)
 {
